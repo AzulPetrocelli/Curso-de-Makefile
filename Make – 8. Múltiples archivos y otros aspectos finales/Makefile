@@ -2,7 +2,6 @@
 
 #include carpeta1/makefile1 carpeta2/makefile2
 
-#Definimos variables y las aplicamos en el Makefile anterior
 # Con \ ignoramos el salto de barra, util si tenemos muchos archivos
 BINARY = programa
 OBJS = main.o \
